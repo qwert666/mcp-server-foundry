@@ -51,7 +51,7 @@ first you need to clone the repository and add the config to your app
         "--directory", 
         "<path_to_mcp_server>",
         "run",
-        "mcp_server_foundry"
+        "mcp-server-foundry"
       ],
       "env": {
         "HOSTNAME": "<hostname>",
